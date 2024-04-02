@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pooyan Rahmanzadehgervi"
+title                    : "Yasin Fatemi"
 title_separator          : "@"
-name                     : &name "Pooyan Rahmanazadehgervi"
+name                     : &name "Yasin Fatemi"
 description              : &description "personal description"
-url                      : https://pooyanrg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yasinfa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "pooyanrg/pooyanrg.github.io"
+repository               : "yasinfa/yasinfa.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -74,16 +74,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pooyan Rahmanzadehgervi"
+  name             : "Yasin Fatemi"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Fellow in Computer Science @ Auburn University"
+  bio              : "Ph.D. Student in Industrial and Systems Engineering @ Auburn University"
   location         : "Auburn, AL"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=XSkv_7EAAAAJ&hl=en"
-  email            : "pooyan.rmz@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Pooyan-Rahmanzadehgervi"
-  github           : "pooyanrg"
-  linkedin         : "pooyan-rahmanzadehgervi-a29a73211"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=m8zDmWAAAAAJ"
+  email            : "yzf0024@auburn.edu"
+  researchgate     : "https://www.researchgate.net/profile/Yasin-Fatemi"
+  github           : "yasinfa"
+  linkedin         : "yasin-fatemi-313092107"
   orcid            : 
   stackoverflow    : 
 
