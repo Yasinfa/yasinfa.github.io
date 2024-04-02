@@ -1,5 +1,5 @@
 ---
-title: "Vision-Based Obstacle Avoidance in Drone Navigation using Deep Reinforcement Learning"
+title: ""
 collection: publications
 permalink: 
 excerpt: ''
@@ -10,4 +10,4 @@ citation:
 ---
 
 
-[Download]()
+
